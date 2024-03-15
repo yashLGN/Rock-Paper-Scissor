@@ -52,7 +52,7 @@ body {
 }
 
 .js-score:hover, .js-moves:hover, .js-result:hover {
-    color: rgba(244,68,253,255);
+    color: grey;
 }
 
 .js-result {
